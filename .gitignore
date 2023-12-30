@@ -1,1 +1,5 @@
-.in, .out ja .pyc
+# Ignore files with .in, .out, and .pyc extensions
+*.in
+*.out
+*.pyc
+
